@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello Android World</string>
+    <string name ="default_user_name">Nilan</string>
+</resources>
